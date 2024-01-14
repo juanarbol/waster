@@ -1,0 +1,1 @@
+/opt/homebrew/bin/ccache  /usr/bin/clang -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/qjs_exe.dir/qjs.c.o "CMakeFiles/qjs_exe.dir/quickjs-libc.c.o" CMakeFiles/qjs_exe.dir/repl.c.o -o qjs  libqjs.a -lm -lpthread 

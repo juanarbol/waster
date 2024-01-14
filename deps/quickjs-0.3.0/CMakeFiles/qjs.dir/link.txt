@@ -1,0 +1,2 @@
+/usr/bin/ar qc libqjs.a CMakeFiles/qjs.dir/cutils.c.o CMakeFiles/qjs.dir/libbf.c.o CMakeFiles/qjs.dir/libregexp.c.o CMakeFiles/qjs.dir/libunicode.c.o CMakeFiles/qjs.dir/quickjs.c.o
+/usr/bin/ranlib libqjs.a

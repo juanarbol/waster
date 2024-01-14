@@ -1,0 +1,1 @@
+/opt/homebrew/bin/ccache  /usr/bin/clang -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/unicode_gen.dir/cutils.c.o CMakeFiles/unicode_gen.dir/libunicode.c.o CMakeFiles/unicode_gen.dir/unicode_gen.c.o -o unicode_gen 
